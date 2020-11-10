@@ -59,3 +59,4 @@
 827250 = Europa Universalis IV: Dharma Content Pack
 960920 = Europa Universalis IV: Golden Century
 1009630 = Europa Universalis IV: Imperator Unit Pack
+1264340 = Content Pack - Europa Universalis IV: Emperor
